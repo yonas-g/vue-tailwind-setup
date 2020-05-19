@@ -1,5 +1,9 @@
 # VUE-Tailwind
 
+-   purge-css with postcss
+-   vuex
+-   vue-router
+
 ## Project setup
 
 ```
